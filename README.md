@@ -24,4 +24,5 @@
 
 - 🧑‍💻Run: **npm start**
 
-<h2>Check it out! <a> href="https://pranjalm-forkify.netlify.app/" target="blank">🟢</a></h2>
+<h2>Check it out! </h2>
+- <a> href="https://pranjalm-forkify.netlify.app/" target="blank">🟢</a>
