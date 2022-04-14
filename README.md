@@ -1,5 +1,5 @@
 <h1 align="center">Forkify</h1>
-[Check it out!](https://pranjalm-forkify.netlify.app/)
+
 <h3 align="center">A highly commented project 😂 with each info, Features as follows</h3>
 
 - 🔍 Search for recipe: **Search**
@@ -25,3 +25,4 @@
 
 - 🧑‍💻Run: **npm start**
 
+[Check it out!](https://pranjalm-forkify.netlify.app/)
